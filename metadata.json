@@ -1,0 +1,6 @@
+{
+  "name": "TWEETVERSE AI – Decode the Internet's Emotions",
+  "description": "Decode the internet's emotional pulse with real NLP sentiment analysis, Tweet Autopsy, multi-emotion classification, brand face-offs, and batch tweet laboratory.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
